@@ -1,4 +1,7 @@
-### Hi there 👋
+## Cledson Luciano Pereira Aristimunho
+
+#### Aluno do Curso Profissão: Desenvolvedor Full Stack Python da EBAC
+#### Curso de Desenvolvedor Back-end Python já terminado pela própria EBAC
 
 <!--
 **Luciano2078/Luciano2078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
